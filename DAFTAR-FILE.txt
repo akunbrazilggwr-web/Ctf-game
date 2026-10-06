@@ -1,0 +1,25 @@
+DAFTAR BERKAS
+index.html
+login.html
+register.html
+akun.html
+katalog.html
+arsip-rak.html
+catatan-koh-aliong.txt
+README.txt
+manifest.json
+legacy/README-LAMA.txt
+legacy/rak-17/tahun-2009/halaman-41.html
+legacy/indeks.txt
+legacy/aturan-format.txt
+legacy/segmen-1.dat
+legacy/segmen-2.dat
+legacy/segmen-3.dat
+legacy/segmen-4.dat
+legacy/potongan-1.bin
+legacy/potongan-2.bin
+legacy/potongan-3.bin
+potongan-4.bin
+legacy/umpan-1.txt
+legacy/umpan-2.txt
+legacy/umpan-3.txt

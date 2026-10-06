@@ -1,0 +1,16 @@
+CATATAN TOKO — JANGAN DIBUANG
+
+Koh Aliong punya kebiasaan aneh:
+1. Tidak menaruh rahasia di halaman yang paling ramai.
+2. Kalau sebuah catatan terlihat seperti kode, jangan langsung percaya bentuknya.
+3. "rak-tahun-halaman" adalah urutan, bukan sandi.
+4. Arsip lama kadang memakai format yang tidak dipakai halaman baru.
+5. Kata kunci untuk catatan berikutnya bukan password pelanggan.
+
+Daftar istilah:
+- sampul = yang terlihat
+- punggung = nama berkas
+- halaman = isi
+- indeks = posisi
+
+Jangan mencari "flag" secara harfiah. Itu terlalu mudah.

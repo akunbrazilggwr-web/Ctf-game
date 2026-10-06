@@ -1,0 +1,24 @@
+{
+  "versi": "2.4",
+  "berkas_publik": [
+    "index.html",
+    "login.html",
+    "register.html",
+    "akun.html",
+    "katalog.html",
+    "arsip-rak.html",
+    "catatan-koh-aliong.txt",
+    "README.txt"
+  ],
+  "arsip": [
+    "legacy/README-LAMA.txt",
+    "legacy/rak-17/tahun-2009/halaman-41.html",
+    "legacy/indeks.txt",
+    "legacy/aturan-format.txt",
+    "legacy/segmen-1.dat",
+    "legacy/segmen-2.dat",
+    "legacy/segmen-3.dat",
+    "legacy/segmen-4.dat"
+  ],
+  "catatan_integritas": "Jangan percaya nama field yang terlalu membantu."
+}
