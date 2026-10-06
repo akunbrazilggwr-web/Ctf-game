@@ -1,0 +1,10 @@
+INDEKS ARSIP
+
+4 1 3 2
+
+Empat bagian dari catatan katalog harus diperlakukan sebagai urutan.
+Jangan gabungkan dulu sebelum urutannya benar.
+
+Keterangan:
+bagian = potongan teks
+posisi = indeks berbasis satu

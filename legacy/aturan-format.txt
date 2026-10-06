@@ -1,0 +1,11 @@
+FORMAT CATATAN RAHASIA
+
+Jika ada potongan:
+- balik arah
+- lakukan XOR berulang
+- lalu baca hasilnya
+
+Kuncinya dibentuk dari tiga bagian yang disebut Koh Aliong:
+rak, tahun, halaman.
+
+Urutan tiga bagian itu penting.
